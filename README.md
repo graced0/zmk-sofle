@@ -1,6 +1,6 @@
 https://nickcoutsos.github.io/keymap-editor/
 
-<img width="1229" height="645" alt="image" src="https://github.com/user-attachments/assets/1593e849-a7dd-4d30-9c69-993e6c5ea844" />
+<img width="1200" height="618" alt="image" src="https://github.com/user-attachments/assets/99791eab-a4ae-4949-b143-989e2a068b7a" />
 
 <img width="1197" height="665" alt="image" src="https://github.com/user-attachments/assets/2b2707d6-e896-4701-a8d5-91589348d5c9" />
 
