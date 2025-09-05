@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: eyelash_sofle}
 layers:
-  LAYER0:
+  BASE:
   - '~'
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
@@ -58,14 +58,14 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - $$mdi:keyboard-esc$$
   - {t: '$$mdi:backspace$$', type: backspace}
-  - layer1
+  - ONE
   - {t: '$$mdi:transfer$$', type: trans}
-  - '2'
+  - TWO
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: \, s: '|'}
-  - '3'
-  layer1:
+  - THREE
+  ONE:
   - {t: '$$mdi:transfer$$', type: trans}
   - F1
   - F2
@@ -130,7 +130,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  '2':
+  TWO:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -195,7 +195,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  '3':
+  THREE:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
